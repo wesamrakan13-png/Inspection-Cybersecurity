@@ -20,3 +20,10 @@ Make sure you have Python installed on your system.
 
 ```bash
 python --version
+
+---
+⚠️ **Developer Note:**
+This is an initial version filled with bugs. If you want a much stronger and better version multiplied several times, please contact me directly on Telegram:
+* **Username:** @mgjp519
+* **Account Name:** ¹³
+---
